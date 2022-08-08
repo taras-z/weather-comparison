@@ -49,3 +49,7 @@ If I should prepare this work for production, I will improve/realise the next fe
 2. Create the function to download and prepare the dataset (according to the config)
 3. Create the function to combine the result dataset
 4. Create the function to save/prepare the research report
+
+## Contacts
+
+You are welcome to feedback to me in the [Issue Section](https://github.com/taras-z/weather-comparison/issues).
