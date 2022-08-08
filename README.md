@@ -7,9 +7,10 @@ Presumably part of them reacts to the speed of air pressure changes.
 This nano-research of weather records might help them to select a region with stable air pressure.
 Moreover, it's possible to create a comparison of other weather conditions.
 
-## Method
+## Processing
 If you want to execute the Notebook and make the comparison yourself or,
-might be, compare other countries/cities(stations), you need to perform next steps.
+might be, compare other countries/cities(stations), you need to [prepare the environment](./ENV_PREPARE.md) and  
+perform next steps.
 
 ### Data gathering
 Firstly, you must download the necessary datasets from
